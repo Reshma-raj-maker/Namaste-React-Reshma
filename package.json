@@ -1,0 +1,30 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reshma-raj-maker/Namaste-React-Reshma.git"
+  },
+  "keywords": [
+    "reshma"
+  ],
+  "author": "reshma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reshma-raj-maker/Namaste-React-Reshma/issues"
+  },
+  "homepage": "https://github.com/Reshma-raj-maker/Namaste-React-Reshma#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
