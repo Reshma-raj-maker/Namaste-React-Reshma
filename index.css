@@ -40,3 +40,38 @@ cursor: pointer;
   margin: 5px;
   border-radius: 5px;
 }
+.shimmer-container{
+display: flex;
+flex-wrap: wrap;
+}
+.shimmer-card{
+  border: 2px solid #fff;
+  background-color: #f0f0f0;
+  width: 200px;
+  height: 400px;
+}
+.login-btn{
+  border: 2px solid #dddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.filter-btn{
+  display: flex;
+  margin-top: 10px;
+}
+.search-btn{
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+.search{
+  cursor: pointer;
+}
+.about-body{
+  border: 1px solid #dddd;
+  padding: 10px;
+margin-top: 10PX;
+box-shadow: 5PX #3c3c3c;
+}
